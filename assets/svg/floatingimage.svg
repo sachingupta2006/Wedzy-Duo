@@ -1,0 +1,21 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 1000003745">
+<g id="Ellipse 1393" filter="url(#filter0_b_883_1301)">
+<circle cx="25" cy="25" r="25" fill="#F5DCE5"/>
+</g>
+<g id="Group 1000003744">
+<path id="Rectangle 17665" d="M25.7645 17C25.7645 14.2386 28.0031 12 30.7645 12H35.9998C37.1044 12 37.9998 12.8954 37.9998 14V19.2358C37.9998 21.9972 35.7612 24.2358 32.9998 24.2358H27.7645C26.66 24.2358 25.7645 23.3404 25.7645 22.2358V17Z" fill="#EF2B7B"/>
+<path id="Rectangle 17667" d="M24.2355 17C24.2355 14.2386 21.9969 12 19.2355 12H14.0002C12.8956 12 12.0002 12.8954 12.0002 14V19.2358C12.0002 21.9972 14.2388 24.2358 17.0002 24.2358H22.2355C23.34 24.2358 24.2355 23.3404 24.2355 22.2358V17Z" fill="#EF2B7B"/>
+<path id="Rectangle 17666" d="M33 25.7642C35.7614 25.7642 38 28.0028 38 30.7642V36C38 37.1046 37.1046 38 36 38H30.7647C28.0033 38 25.7647 35.7614 25.7647 33V27.7642C25.7647 26.6596 26.6601 25.7642 27.7647 25.7642H33Z" fill="#EF2B7B"/>
+<path id="Rectangle 17668" d="M17 25.7642C14.2386 25.7642 12 28.0028 12 30.7642V36C12 37.1046 12.8954 38 14 38H19.2353C21.9967 38 24.2353 35.7614 24.2353 33V27.7642C24.2353 26.6596 23.3399 25.7642 22.2353 25.7642H17Z" fill="#EF2B7B"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_883_1301" x="-40" y="-40" width="130" height="130" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="20"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_883_1301"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_883_1301" result="shape"/>
+</filter>
+</defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 1000003745">
+<g id="Ellipse 1393" filter="url(#filter0_b_883_1392)">
+<circle cx="25" cy="25" r="25" fill="#F5DCE5"/>
+</g>
+<g id="Group 1000003744">
+<path id="Rectangle 17665" d="M25.9998 13C25.9998 10.2386 28.2383 8 30.9998 8H39.9998C41.1043 8 41.9998 8.89543 41.9998 10V19.0007C41.9998 21.7621 39.7612 24.0007 36.9998 24.0007H27.9998C26.8952 24.0007 25.9998 23.1053 25.9998 22.0007V13Z" fill="#EF2B7B" fill-opacity="0.1"/>
+<path id="Rectangle 17667" d="M24.0002 13C24.0002 10.2386 21.7617 8 19.0002 8H10.0002C8.89567 8 8.00024 8.89543 8.00024 10V19.0007C8.00024 21.7621 10.2388 24.0007 13.0002 24.0007H22.0002C23.1048 24.0007 24.0002 23.1053 24.0002 22.0007V13Z" fill="#EF2B7B" fill-opacity="0.1"/>
+<path id="Rectangle 17666" d="M37 25.9993C39.7614 25.9993 42 28.2379 42 30.9993V40C42 41.1045 41.1046 42 40 42H31C28.2386 42 26 39.7614 26 37V27.9993C26 26.8947 26.8954 25.9993 28 25.9993H37Z" fill="#EF2B7B" fill-opacity="0.1"/>
+<path id="Rectangle 17668" d="M13 25.9993C10.2386 25.9993 8 28.2379 8 30.9993L8 40C8 41.1045 8.89543 42 10 42H19C21.7614 42 24 39.7614 24 37V27.9993C24 26.8947 23.1046 25.9993 22 25.9993H13Z" fill="#EF2B7B" fill-opacity="0.1"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_883_1392" x="-40" y="-40" width="130" height="130" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="20"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_883_1392"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_883_1392" result="shape"/>
+</filter>
+</defs>
+</svg>
